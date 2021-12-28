@@ -32,4 +32,4 @@ In order to build this project, we will need to learn how to use Spring Security
 
 ### Project Tracker :bar_chart:
 Our Trello project board can be found here:
-[https://trello.com/b/tBAq3k6b/what-do-you-want](https://trello.com/b/tBAq3k6b/what-do-you-want)
+[https://trello.com/b/tBAq3k6b/liftoff-group-gift-list](https://trello.com/b/tBAq3k6b/liftoff-group-gift-list)
