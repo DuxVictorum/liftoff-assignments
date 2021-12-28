@@ -8,7 +8,7 @@ Our wireframes are in a single PDF file here:
 
 ### Project Tracker
 Our Trello board is here:  
-[https://trello.com/b/tBAq3k6b/what-do-you-want](https://trello.com/b/tBAq3k6b/what-do-you-want)
+[https://trello.com/b/tBAq3k6b/liftoff-group-gift-list](https://trello.com/b/tBAq3k6b/liftoff-group-gift-list)
 
 ### Project Repo Link
 
